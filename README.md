@@ -1,6 +1,6 @@
 # ShowPulse
-![image](https://github.com/Rushikeshawar/booking/assets/126863130/2383fc87-6042-47b9-8e82-addac19ca794)
-![image](https://github.com/Rushikeshawar/booking/assets/126863130/041caef8-b31d-41dd-b855-85b3fbd4f7e5)
+![image](https://github.com/Rushikeshawar/assets/126863130/2383fc87-6042-47b9-8e82-addac19ca794)
+![image](https://github.com/Rushikeshawar/assets/126863130/041caef8-b31d-41dd-b855-85b3fbd4f7e5)
 ![image](https://github.com/Rushikeshawar/booking/assets/126863130/ca8f6c3f-668c-40da-a4ba-8f2082b9348c)
 ![image](https://github.com/Rushikeshawar/booking/assets/126863130/bf356dc9-5bc0-41ca-9ebb-d3bdf042e3ee)
 
